@@ -81,13 +81,4 @@ Total Orders = COUNTROWS(Orders)
 
 Average Delivery Time = AVERAGE(Orders[Delivery_Time_Minutes])
 
-## 🎯 **Key Learnings**
-
-**Data modeling and relationship building in Power BI**  
-**Cleaning and transforming data using Power Query**  
-**Creating KPI cards, visuals, and reports**  
-**Using DAX for measures and calculations**  
-**Designing interactive dashboards**
-
 AOV = [Total Sales] / [Total Orders]
-ence through interactive elements
